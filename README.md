@@ -15,15 +15,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
 
-
-
-
-
-
-
+<h3 align="leading">💻 Online-Judge-Tier</h3>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarjsdn3)](https://solved.ac/rlarjsdn3)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarjsdn3&show_icons=true&theme=radical)
