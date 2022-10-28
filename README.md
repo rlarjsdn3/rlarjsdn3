@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KunWooKim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kim KunWoo&fontSize=90)
 
 <h4 align="center">안녕하세요! 김소월입니다</h4>
 
