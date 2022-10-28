@@ -1,8 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Zizi's%20GitHub&fontSize=90" />
 
-<h4 align="center">환영합니다!</h4>
+<h2 align="center">Welcome!😀</h2>
 
-<hr>
+<h3 align="center">💁🏻‍♀️ About Me </h3>
+<p align="center"> Techs that I've used at least once </p>
+
+
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 <p align="center"> Techs that I've used at least once </p>
 
