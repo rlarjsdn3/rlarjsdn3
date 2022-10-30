@@ -1,13 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Zizi's%20GitHub&fontSize=90" />
 
-<h3 align="center">Welcome! I'm KunWooKim😀 </h3><br>
+<h3 align="center">Welcome!</h3><br>
 
 <h3 align="center">🐳 About Me 🐳</h3>
 <p align="center">
 <a href="https://github.com/rlarjsdn3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://velog.io/@rlarjsdn3/about" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-  
-
+<br><br>  
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h2>
 <p align="center"> Techs that I've used at least once </p>
@@ -20,11 +19,12 @@
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 </p>
+<br><br>  
 
-<p align="center">
+<div align="center">
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarjsdn3)](https://solved.ac/rlarjsdn3)
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarjsdn3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-  
-</p>
+</div>
