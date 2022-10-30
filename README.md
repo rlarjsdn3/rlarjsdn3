@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Zizi's%20GitHub&fontSize=90" />
 
-<h3 align="center">Welcome!</h3><br>
-
 <h3 align="center">🐳 About Me 🐳</h3>
 <p align="center">
 <a href="https://github.com/rlarjsdn3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
