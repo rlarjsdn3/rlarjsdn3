@@ -22,13 +22,12 @@
 
 <div align="center">
   
-<h4 align="center">📚 Most Used Languages 📚</h4>  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarjsdn3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-  
 <h4 align="center">⭐️ BOJ Rank ⭐️</h4>
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlarjsdn3)](https://solved.ac/rlarjsdn3)
   
+<h4 align="center">📚 Most Used Languages 📚</h4>  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarjsdn3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
   
 </div>
