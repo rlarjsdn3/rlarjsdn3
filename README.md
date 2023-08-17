@@ -25,4 +25,5 @@
 <br/>
 <br/>
 
-> **여정 그 자체가 보상이다(The journey is the reward)** - 스티브 잡스(Steve Jobs) - 
+> **여정 그 자체가 보상이다(The journey is the reward)** <br/>
+> `스티브 잡스(Steve Jobs)`
