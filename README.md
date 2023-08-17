@@ -21,3 +21,8 @@
 <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=#39477F"/>
   <img src="https://img.shields.io/badge/Almofire-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
+
+<div class="notice" align="center">
+  <h4>(한 줄 글귀)</h4>
+  <p>- (사람) -</p>
+</div>
