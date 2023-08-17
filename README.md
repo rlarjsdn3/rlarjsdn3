@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Almofire-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
 
-<div class="notice" align="center">
-  <h4>(한 줄 글귀)</h4>
-  <p>- (사람) -</p>
-</div>
+<br/>
+<br/>
+
+> **여정 그 자체가 보상이다(The journey is the reward)** - 스티브 잡스(Steve Jobs) - 
