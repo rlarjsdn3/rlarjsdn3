@@ -21,9 +21,3 @@
 <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=#39477F"/>
   <img src="https://img.shields.io/badge/Almofire-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
-
-<br/>
-<br/>
-
-> **여정 그 자체가 보상이다(The journey is the reward)** <br/>
-> `스티브 잡스(Steve Jobs)`
