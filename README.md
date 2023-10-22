@@ -21,3 +21,20 @@
 <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=#39477F"/>
   <img src="https://img.shields.io/badge/Almofire-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </div>
+
+<h2></h2>
+
+<details>
+<summary>✏️<strong>Repository Naming Rules</strong> </summary>
+  
+<br>
+
+>
+> * `main-project` 비교적 규모있는 프로젝트를 담고 있는 리포지토리 <br>
+> * `test-project` 프로젝트를 위한 테스트 코드를 담고 있는 리포지토리 <br>
+> * `toy-project` 작은 규모의 프로젝트를 담고 있는 리포지토리 <br>
+> * `practice` 하나의 기능 단위 코드를 연습하기 위한 리포지토리 <br>
+> * `learning-notes` 강의 혹은 서적의 학습 내용을 정리한 리포지토리 <br>
+>
+
+</details>
