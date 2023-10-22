@@ -35,4 +35,18 @@
 * `practice` 하나의 기능 단위 코드를 연습하기 위한 리포지토리(낙서장) <br>
 * `learning-notes` 강의 혹은 서적의 학습 내용을 정리한 리포지토리 <br>
 
+<br>
+
+</details>
+
+<details>
+<summary>⭐️<strong>Git & Tistory Management Guidelines</strong> </summary>
+  
+<br>
+
+* `Git` 프로젝트 저장 ・ 코드 낙서장 등 <br>
+* `Tistory` 심화 이론 학습 ・ 문서 번역 작업 등 <br>
+
+<br>
+
 </details>
