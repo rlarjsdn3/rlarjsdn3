@@ -3,9 +3,7 @@
 
 <div align="">
 <h2>😺 김지지 </h2>
-<a href="https://github.com/rlarjsdn3" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-<a href="https://zizi-kim.tistory.com"><img src="https://img.shields.io/badge/Tistory-orange?style=for-the-badge&logo=Tistory&logoColor=black"/>
-  <a href="https://naver.com"><img src="https://img.shields.io/badge/Notion-lightgray?style=for-the-badge&logo=Notion&logoColor=white"/>
+<a href="https://rlarjsdn3.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </div>
 
 ***
