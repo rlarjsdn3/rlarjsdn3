@@ -3,7 +3,7 @@
 
 <div align="">
 <h2>😺 김지지 </h2>
-<a href="https://rlarjsdn3.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<a href="https://rlarjsdn3.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </div>
 
 ***
