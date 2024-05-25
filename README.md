@@ -2,8 +2,8 @@
 <a href="https://solved.ac/rlarjsdn3"><img align="right" src="http://mazassumnida.wtf/api/generate_badge?boj=rlarjsdn3"/></a>
 
 <div align="">
-<h2>😺 김지지 </h2>
-<a href="https://rlarjsdn3.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub.io-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<h2>😺 김지지</h2>
+<a href="https://velog.io/@rlarjsdn3/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 </div>
 
 ***
