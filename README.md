@@ -3,7 +3,10 @@
 
 ## 😺김지지
 
+<div align="">
+
 <a href="https://velog.io/@rlarjsdn3/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+<a href="https://rlarjsdn3.github.io/categories/" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 
 </div>
 
