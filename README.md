@@ -5,6 +5,8 @@ Hello! I'm an **iOS mobile app developer.** 😃
 
 My hobby? Giving Whitey all the love and attention is what I do best! Every day, we put our heads together and dive into coding. 🤣
 
+</br>
+
 
 ### 📡 Skills
 
