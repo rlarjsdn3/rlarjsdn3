@@ -22,10 +22,11 @@ Every day, we put our heads together and dive into coding. 🤣
 
 #### Studying
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Concurrency-FF00FF?style=flat-square&logo=Swift&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Data-A9A9A9?style=flat-square&logo=Swift&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Testing-006400?style=flat-square&logo=Swift&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Concurrency-FF00FF?style=flat-square&logo=Swift&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Testing-006400?style=flat-square&logo=Swift&logoColor=white"/>
 
 ---
 
