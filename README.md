@@ -1,4 +1,5 @@
 <a href="https://velog.io/@rlarjsdn3/posts" target="_blank"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
+<a href="https://rlarjsdn3.gitbook.io/swift-concurrency-kr" target="_blank"><img src="https://img.shields.io/badge/GitBook-BBDDE5?style=for-the-badge&logo=GitBook&logoColor=black"/>
 <a href="rlarjsdn3@naver.com" target="_blank"><img src="https://img.shields.io/badge/rlarjsdn3@naver.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 Hello! I'm an **iOS mobile app developer.** 😃
