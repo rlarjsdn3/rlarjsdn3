@@ -14,20 +14,16 @@ Every day, we put our heads together and dive into coding. 🤣
 
 #### Platforms & Language
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/ReactorKit-09D3AC?style=flat-square&logo=Preact&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=#39477F"/>
-
-#### Studying
-
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Concurrency-FF00FF?style=flat-square&logo=Swift&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Data-A9A9A9?style=flat-square&logo=Swift&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Testing-006400?style=flat-square&logo=Swift&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Concurrency-FF00FF?style=for-the-badge&logo=Swift&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Data-A9A9A9?style=for-the-badge&logo=Swift&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Testing-006400?style=for-the-badge&logo=Swift&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Core Data-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/ReactorKit-09D3AC?style=for-the-badge&logo=Preact&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=#39477F"/>
 
 ---
 
