@@ -11,7 +11,7 @@
 
 #### Platforms & Language
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=CoffeeScript&logoColor=Orange"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-C%23-00599C?logo=Csharp&style=for-the-badge&logoColor=white"/>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
