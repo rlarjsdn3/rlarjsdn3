@@ -13,7 +13,6 @@
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-C%23-00599C?logo=Csharp&style=for-the-badge&logoColor=white"/>
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=Apple&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Concurrency-FF00FF?style=for-the-badge&logo=Swift&logoColor=white"/>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Swift Data-A9A9A9?style=for-the-badge&logo=Swift&logoColor=white"/>
